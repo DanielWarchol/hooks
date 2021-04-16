@@ -1,0 +1,30 @@
+.hooks {
+    border: 1px solid darkblue;
+    padding: 30px;
+    width: 300px;
+    font-size: 20px;
+    left: 0;
+    right: 0;
+    margin: 30px auto;
+}
+
+.hooks span.value {
+    margin-left: 10px;
+    font-weight: 600;
+    color: red;
+}
+
+button {
+    margin: 10px 0 10px 10px;
+    padding: 10px;
+    background-color: blue;
+    color: #fff;
+    border: 1px solid blue;
+}
+
+button:hover, button:focus {
+    background-color: #003399;
+    border: 1px solid #003399;
+    cursor: pointer;
+    outline: 0;
+}
